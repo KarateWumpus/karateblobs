@@ -1,5 +1,5 @@
 * Info
-  [Homepage](https://karate-blobs.glitch.me)
+    [Homepage](home.md)
   * [Join the server](join-server.md)
   * [News](news.md)
   * [All Blobs <sup style="color:red">(Coming soon)<sup>](all-blobs.md)
