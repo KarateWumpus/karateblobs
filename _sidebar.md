@@ -1,9 +1,15 @@
 * Info
+  [Homepage](https://karate-blobs.glitch.me)
   * [Join the server](join-server.md)
-  * [News <sup style="color:red">(New)</sup>](news.md)
+  * [News](news.md)
   * [All Blobs <sup style="color:red">(Coming soon)<sup>](all-blobs.md)
 
-* Idk
-  * [Contribute](contribute.md)
+* About
+  * [All Blobs <sup style="color:red">(Coming Soon)<sup>](all-blobs.md)
+  * [Contribute to the blobs](contribute_blobs.md)
+  * [Contribute to the server](contribute_server.md)
+  * [Follow channels](follow.md)
+  * [Contact](contact.md)
 
-* UwU
+* Partners
+  * [Suggester](suggester.md)
