@@ -1,7 +1,7 @@
 * Info
   * [Join the server](join-server.md)
   * [News](news.md)
-  * [All Blobs <sup style="color:red">(Coming soon)<sup>](all-blobs.md)
+  * [All Blobs](all-blobs.md)
 
 * About
   * [All Blobs <sup style="color:red">(Coming Soon)<sup>](all-blobs.md)
