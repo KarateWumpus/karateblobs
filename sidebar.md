@@ -1,6 +1,6 @@
 * Info
   * [Join the server](join-server.md)
-  * [News](news.md)
+  * [News <sup style="color:red">(New)<sup>](news.md)
 
 * About
   * [All Blobs](all-blobs.md)
@@ -10,4 +10,6 @@
   * [Contact](contact.md)
 
 * Partners
+  * [Server network](network.md)
+  * [Partner](partner.md)
   * [Suggester](suggester.md)
