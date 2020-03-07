@@ -6,6 +6,7 @@ For everyone wondering what the ad looks like. It is here:
 :ablobkaratewave: Karate Blobs by Karate Wumpus
 :blobinfo: The master sensei blobs have arrived! They might break your hand..
 :link: https://discord.gg/3PtPFtn https://karateblobs.js.org/
- • :ablobkaratesalute: :ablobkaratethinkeyes: :ablobkaratewaggle: •```
- 
+ • :ablobkaratesalute: :ablobkaratethinkeyes: :ablobkaratewaggle: •
+ ```
+
  ![ad](https://karateblobs.js.org/images/ad.gif)
