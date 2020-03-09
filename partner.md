@@ -9,6 +9,3 @@ Want to try out some cool variants of the classic blobs? Then try
 :link: https://discord.gg/3PtPFtn https://karateblobs.js.org/
  • :ablobkaratesalute: :ablobkaratethinkeyes: :ablobkaratewaggle: •
  ```
-
-
- ![ad](https://karateblobs.js.org/images/ad.gif)
