@@ -77,6 +77,8 @@
 ![blobkaratewumpus](https://cdn.discordapp.com/emojis/656581613798555706.png?v=1&size=32) - Blobkaratewumpus [(Big image)](https://karateblobs.js.org/blobs/blobkaratewumpus.png)
 
 ![blobkarateparty](https://cdn.discordapp.com/emojis/685593592315772942.png?v=1&size=32) - Blobkarateparty [(Big image)](https://karateblobs.js.org/blobs/blobkarateparty.png)
+
+![blobkarateshrug](https://cdn.discordapp.com/emojis/688150862597586986.png?v=1&size=32) - Blobkarateshrug [(Big image)](https://karateblobs.js.org/blobs/blobkarateshrug.png)
 ### Animated blobs:
 
 ![ablobkaratewaggle](https://cdn.discordapp.com/emojis/636581603459465226.gif?v=1&size=32) - Ablobkaratewaggle [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewaggle.gif)
