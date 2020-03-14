@@ -1,4 +1,4 @@
-## Karate Blobs
+![logo](https://karateblobs.js.org/images/logo.png)
 Welcome to the official website for Karate Blobs.
 
-More info will be added here soon such as the history and more
+More info will be added here soon
