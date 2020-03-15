@@ -1,1 +1,2 @@
-# Welcome to the server uwu
+# Welcome to the server
+*Add stuff here some day*

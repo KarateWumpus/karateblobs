@@ -11,7 +11,3 @@
   * [Server network](network.md)
   * [Partner](partner.md)
   * [Suggester](suggester.md)
-
-
-
-  * [Welcome](welcome.md)
