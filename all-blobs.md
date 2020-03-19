@@ -79,6 +79,10 @@
 ![blobkarateparty](https://cdn.discordapp.com/emojis/685593592315772942.png?v=1&size=32) - Blobkarateparty [(Big image)](https://karateblobs.js.org/blobs/blobkarateparty.png)
 
 ![blobkarateshrug](https://cdn.discordapp.com/emojis/688150862597586986.png?v=1&size=32) - Blobkarateshrug [(Big image)](https://karateblobs.js.org/blobs/blobkarateshrug.png)
+
+![blobkaratederpy](https://cdn.discordapp.com/emojis/690224431078965274.png?v=1&size=32) - Blobkaratederpy [(Big image)](https://karateblobs.js.org/blobs/blobkaratederpy.png)
+
+![blobkarateitsfine](https://cdn.discordapp.com/emojis/690226970168131587.png?v=1&size=32) - Blobkarateitsfine [(Big image)](https://karateblobs.js.org/blobs/blobkarateitsfine.png)
 ### Animated blobs:
 
 ![ablobkaratewaggle](https://cdn.discordapp.com/emojis/636581603459465226.gif?v=1&size=32) - Ablobkaratewaggle [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewaggle.gif)
@@ -94,5 +98,7 @@
 ![ablobkarateeyes](https://cdn.discordapp.com/emojis/650493615885385749.gif?v=1&size=32) - Ablobkarateeyes [(Big image)](https://karateblobs.js.org/blobs/ablobkarateeyes.gif)
 
 ![ablobkaratewave](https://cdn.discordapp.com/emojis/669767692278038550.gif?v=1&size=32) - Ablobkaratewave [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewave.gif)
+
+![ablobkarateservericon](https://cdn.discordapp.com/emojis/690257088450002980.gif?v=1&size=32) - Ablobkarateservericon [(Big image)](https://karateblobs.js.org/blobs/ablobkarateservericon.gif)
 ### All Blobs:
 ![all-blobs](https://karateblobs.js.org/images/all-blobs.gif)
