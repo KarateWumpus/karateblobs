@@ -20,7 +20,7 @@
 
 ![blobkaratefistbump](https://cdn.discordapp.com/emojis/634945412062773248.png?v=1&size=32) - Blobkaratefistbump [(Big image)](https://karateblobs.js.org/blobs/blobkaratefistbump.png)
 
-![blobkaratedevil](https://cdn.discordapp.com/emojis/634946527525208114.png?v=1&size=32) - Blobkaratedevil [(Big image)](https://karateblobs.js.org/blobs/blobkaratedevil.png)
+![blobkaratedevil](https://cdn.discordapp.com/emojis/692355215302590484.png?v=1&size=32) - Blobkaratedevil [(Big image)](https://karateblobs.js.org/blobs/blobkaratedevil.png)
 
 ![blobkaratesmile2](https://cdn.discordapp.com/emojis/634947132993830912.png?v=1&size=32) - Blobkaratesmile2 [(Big image)](https://karateblobs.js.org/blobs/blobkaratesmile2.png)
 
