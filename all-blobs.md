@@ -2,8 +2,6 @@
 
 ### Non-Animated blobs:
 
-![blobkarateblurple](https://cdn.discordapp.com/emojis/707665349558141131.png?v=1&size=32) - Blobkarateblurple [(Big image)](https://karateblobs.js.org/blobs/blobkarateblurple.png)
-
 ![blobkaratethink](https://cdn.discordapp.com/emojis/634937304904892452.png?v=1&size=32) - Blobkaratethink [(Big image)](https://karateblobs.js.org/blobs/blobkaratethink.png)
 
 ![blobkaratewave](https://cdn.discordapp.com/emojis/634939087941402644.png?v=1&size=32) - Blobkaratewave [(Big image)](https://karateblobs.js.org/blobs/blobkaratewave.png)
@@ -87,9 +85,9 @@
 ![blobkarateitsfine](https://cdn.discordapp.com/emojis/690226970168131587.png?v=1&size=32) - Blobkarateitsfine [(Big image)](https://karateblobs.js.org/blobs/blobkarateitsfine.png)
 
 ![blobkaratewavecool](https://cdn.discordapp.com/emojis/697739467192139816.png?v=1&size=32) - Blobkaratewavecool [(Big image)](https://karateblobs.js.org/blobs/blobkaratewavecool.png)
-### Animated blobs:
 
-![ablobkaratewaveblurple](https://cdn.discordapp.com/emojis/707665776869638236.gif?v=1&size=32) - Ablobkaratewaveblurple [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewaveblurple.gif)
+![blobkarateblurple](https://cdn.discordapp.com/emojis/707665349558141131.png?v=1&size=32) - Blobkarateblurple [(Big image)](https://karateblobs.js.org/blobs/blobkarateblurple.png)
+### Animated blobs:
 
 ![ablobkaratewaggle](https://cdn.discordapp.com/emojis/636581603459465226.gif?v=1&size=32) - Ablobkaratewaggle [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewaggle.gif)
 
@@ -106,5 +104,7 @@
 ![ablobkaratewave](https://cdn.discordapp.com/emojis/669767692278038550.gif?v=1&size=32) - Ablobkaratewave [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewave.gif)
 
 ![ablobkarateservericon](https://cdn.discordapp.com/emojis/690257088450002980.gif?v=1&size=32) - Ablobkarateservericon [(Big image)](https://karateblobs.js.org/blobs/ablobkarateservericon.gif)
+
+![ablobkaratewaveblurple](https://cdn.discordapp.com/emojis/707665776869638236.gif?v=1&size=32) - Ablobkaratewaveblurple [(Big image)](https://karateblobs.js.org/blobs/ablobkaratewaveblurple.gif)
 ### All Blobs:
 ![all-blobs](https://karateblobs.js.org/images/all-blobs.gif)

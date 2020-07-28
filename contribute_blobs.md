@@ -4,7 +4,7 @@ Want to contribute to the huge amount of Karate Blobs in the [server](join-serve
 ---
 #### 1. - Check if there already is a blob like that in the server
 - Check if there is a blob like the one you want to make in the server by either [joining the server](join-server.md) and checking the emojis, or looking at the image below:
-![Image](https://karateblobs.js.org/images/all-blobs.gif)
+![All Blobs](https://karateblobs.js.org/images/all-blobs.gif)
 > Note that the image may be outdated so checking in the server is the best
 
 #### 2. - Make the blob
