@@ -9,7 +9,8 @@ Want to contribute to the huge amount of Karate Blobs in the [server](join-serve
 
 #### 2. - Make the blob
 - Make the blob. To help a bit, the two templates I use are here:
-- [For blobs facing forwards](http://karateblobs.js.org/images/GI-F.png) | [For blobs facing to the side](http://karateblobs.js.org/images/GI-S.png)
+- PNG Files: [For blobs facing forwards](http://karateblobs.js.org/images/GI-F.png) | [For blobs facing to the side](http://karateblobs.js.org/images/GI-S.png)
+- PSD Files: [For blobs facing forwards](http://karateblobs.js.org/images/GI-F.psd) | [For blobs facing to the side](http://karateblobs.js.org/images/GI-S.psd)
 And the website i use to edit photos [here](https://photopea.com)
 
 #### 3. - Suggest the blob
